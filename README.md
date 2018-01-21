@@ -1,0 +1,2 @@
+# Timer-And-TimerTask
+对android developer进行翻译并写了一个小demo对Timer和TimerTask做记录
